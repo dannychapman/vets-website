@@ -2,7 +2,6 @@
 title: Apply for VA Healthcare
 template: 7-get-page
 ---
-<div class="main interior" role="main" markdown="0">
 
 <div class="va-action-bar--header">
   <div class="row">
@@ -11,6 +10,7 @@ template: 7-get-page
     </div>
   </div>
 </div>
+<div class="main interior" role="main" markdown="0">
 
 <div class="primary" markdown="0">
 <div class="row" markdown="0">
