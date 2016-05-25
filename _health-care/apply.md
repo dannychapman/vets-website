@@ -14,9 +14,12 @@ template: 7-get-page
 
 <div class="primary" markdown="0">
 <div class="row" markdown="0">
-<div class="small-12 columns usa-content divider bottom" markdown="1">
+<div class="small-12 columns usa-content" markdown="1">
 <div markdown="1">
 Health care at the VA includes preventive and primary care (like check-ups), specialty care (like an OBGYN or dermatologist), prescriptions, mental health care, home health care, geriatrics and extended care, medical equipment and prosthetics, and more. 
+
+<a class="usa-button-primary va-button-primary" href="healthcare/apply/application">Apply for VA Health Care</a>
+
 </div>
 </div>
 </div>
@@ -24,35 +27,32 @@ Health care at the VA includes preventive and primary care (like check-ups), spe
 
 <div class="row" markdown="0">
 <div class="section small-12 columns usa-content"  markdown="1">
+<div class="call-out" markdown="1">
+
 ### Who should read this? 
 
 If you served on active duty, and separated under conditions other than dishonorable, you may qualify for VA health care. 
-
-<a class="usa-button-primary va-button-primary" href="healthcare/apply/application">Apply for VA Health Care</a>
+</div>
 </div>
 
 </div>
 <div class="section one" markdown="0">
 
 <div class="row" markdown="0">
-<div class="small-12 columns usa-content"> 
-<div class="call-out" markdown="1">
+<div class="section small-12 medium-8 columns usa-content"  markdown="1">
 
 ### How long will it take to process your application?
 
-Less than one week. 
+Less than one week. If more than a week has passed since you submitted your application and you have not heard back, do not apply again. Call **1-877-222-VETS**.
 
-When you apply online you will receive a confirmation number. Keep that number for your records.
+**Note:** When you apply online you will receive a confirmation number. Keep that number for your records.
 
-If more than a week has passed since you submitted your application and you have not heard back, do not apply again. Call **1-877-222-VETS**.
-
-</div>
 </div>
 </div>
 <div class="row" markdown="0">
 <div class="section small-12 medium-8 columns usa-content"  markdown="1">
 
-### Are you eligible VA health care?
+### Are you eligible for VA health care?
 
 If you served on active duty, and separated under conditions other than dishonorable, you may qualify for VA health care.
 
