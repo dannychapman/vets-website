@@ -14,7 +14,7 @@ template: 7-get-page
 
 <div class="primary" markdown="0">
 <div class="row" markdown="0">
-<div class="small-12 columns usa-content" markdown="1">
+<div class="small-12 columns usa-content  divider bottom" markdown="1">
 <div markdown="1">
 Health care at the VA includes preventive and primary care (like check-ups), specialty care (like an OBGYN or dermatologist), prescriptions, mental health care, home health care, geriatrics and extended care, medical equipment and prosthetics, and more. 
 
@@ -24,18 +24,7 @@ Health care at the VA includes preventive and primary care (like check-ups), spe
 </div>
 </div>
 </div>
-
-<div class="row" markdown="0">
-<div class="section small-12 columns usa-content"  markdown="1">
-<div class="call-out" markdown="1">
-
-### Who should read this? 
-
-If you served on active duty, and separated under conditions other than dishonorable, you may qualify for VA health care. 
-</div>
-</div>
-
-</div>
+    
 <div class="section one" markdown="0">
 
 <div class="row" markdown="0">
